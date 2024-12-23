@@ -250,10 +250,9 @@ logs/logChatbot.log
 * 
 
 **Exemplo de Log:**  
-less  
-Copiar código  
-`2024-12-23 10:30:00 - INFO - Cliente LUIS inicializado com sucesso.`  
-`2024-12-23 10:31:00 - INFO - Mensagem processada com sucesso. Intenção: WeatherQuery, Entidades: [('tempo', 'consulta')]`
+
+2024-12-23 10:30:00 - INFO - Cliente LUIS inicializado com sucesso.
+2024-12-23 10:31:00 - INFO - Mensagem processada com sucesso. Intenção: WeatherQuery, Entidades: [('tempo', 'consulta')]`
 
 * 
 ```
