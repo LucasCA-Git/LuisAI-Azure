@@ -1,0 +1,3 @@
+azure-cognitiveservices-language-luis
+msrest
+python-dotenv
